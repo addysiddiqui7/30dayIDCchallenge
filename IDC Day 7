@@ -15,5 +15,6 @@ with open('file.txt','r') as f:
 # If we don't use split then it will count letters as words
 words = content.split()
 
+#print our length of words
 word_count = len(words)
-print('Total words in our text file are:',word_count
+print('Total words in our text file are:',word_count)
