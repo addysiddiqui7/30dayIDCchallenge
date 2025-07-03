@@ -10,5 +10,5 @@ def get_nth_fibonacci(n):
         num = next(fib)
     return num
 
-# Example: Get the 10th Fibonacci number
-print(get_nth_fibonacci(6))  # Output: 34
+# Example: Get the 15th Fibonacci number
+print(get_nth_fibonacci(15))  # Output: 377
