@@ -1,4 +1,5 @@
-'''Create a dataclass to represent a library book with fields for 
+'''Create a dataclass to represent a library book with 
+fields for 
 title, author, ISBN, and publication year, 
 including a method to display book details'''
 from dataclasses import dataclass
