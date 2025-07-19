@@ -21,7 +21,7 @@ class User_Profile(BaseModel):
         return(
             f"Username: {self.username}\n"
             f"Email: {self.email}\n"
-            f"Age: {self.age}"
+            f"Age: {self.age}\n"
             f"Profile created successfully!"
         )
 
