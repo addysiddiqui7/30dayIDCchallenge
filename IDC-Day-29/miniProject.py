@@ -1,3 +1,5 @@
+'''This is the GUI version of old pass gen. but it dont have that while loop. I think that without GUI version was more cool'''
+
 from kivy.app import App
 from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.label import Label
